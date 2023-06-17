@@ -1,6 +1,9 @@
 
 # Run
-pip3 install -r requirements.txt                                    python3 src/main.py 
+'mkdir logs/'
+'touch log_filename.txt'
+'pip3 install -r requirements.txt'  
+'python3 src/main.py' 
 
 ## Requiriments
 - Python 3.10
